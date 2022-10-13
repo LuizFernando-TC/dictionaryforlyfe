@@ -3,3 +3,10 @@ site_url:
 site_author: Luiz Fernando
 site_description: "O Dictionary for Lyfe é um projeto de dicionário que tem como objetivo ser, como o nome diz, um dicionário para a vida."
 repo_url: https://github.com/LuizFernando-TC/dictionaryforlyfe
+
+plugins:
+  - search:
+      lang: 
+        - en
+        - pt
+
