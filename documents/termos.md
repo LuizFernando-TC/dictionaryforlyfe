@@ -5,10 +5,10 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
 <details>
     <summary>Desenvolvimento</summary>
 
-    <details>
+    
     <summary>Python</summary>
         
-    </details>
+   
     
 </details>
 
