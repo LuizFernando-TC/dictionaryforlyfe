@@ -2,7 +2,7 @@
 
 Os termoas à serem descridos estarão separados por áreas do conhecimento
 
- <details><summary>Desenvolvimento</summary>
+ <details><summary> ## Desenvolvimento</summary>
       <details><summary>Linguagens</summary>
        <details><summary>Python</summary></details>
        <details><summary>Javascript</summary></details>
