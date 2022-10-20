@@ -51,3 +51,4 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
 
 ## close demo
 </summary>
+<details><summary>Linguagens</summary>
