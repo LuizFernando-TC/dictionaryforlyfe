@@ -2,7 +2,7 @@
 
 Os termoas à serem descridos estarão separados por áreas do conhecimento
 
-# <details><summary>Desenvolvimento</summary>
+ </details><summary>Desenvolvimento</summary>
       <details><summary>Linguagens</summary>
        <details><summary>Python</summary></details>
        <details><summary>Javascript</summary></details>
@@ -10,14 +10,6 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
     </details>
     <details><summary>Softwares</summary>
         VSCode
-    </details>
-</details>
-<details><summary>head 2</summary>
-    <details><summary>head 2.1</summary>
-        content 1.1
-    </details>
-    <details><summary>head 2.2</summary>
-        content 1.2
     </details>
 </details>
 
