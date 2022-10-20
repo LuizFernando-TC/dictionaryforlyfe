@@ -52,3 +52,6 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
 ## close demo
 </summary>
 <details><summary>Linguagens</summary>
+ <details><summary>Python</summary></details>
+ <details><summary>Javascript</summary></details>
+ <details><summary>Java</summary></details>
