@@ -23,8 +23,7 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
       <details><summary>
        
       # Acústica
-       </summary>
- </details>
+       </summary></details>
       <details><summary>Eletricidade</summary></details>
       <details><summary>Magnetismo</summary></details>
       <details><summary>Ondulatória</summary></details>
