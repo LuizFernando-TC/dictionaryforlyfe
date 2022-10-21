@@ -96,6 +96,4 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
  <details><summary>Python</summary></details>
  <details><summary>Javascript</summary></details>
  <details><summary>Java</summary></details>
-
- 
- <a name="paragraph1"></a>
+  > inside a list item.
