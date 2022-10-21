@@ -21,15 +21,15 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
  # Física 
  </summary>
       <details><summary>Acústica</summary>
-       <details><summary>Eletricidade</summary></details>
-       <details><summary>Magnetismo</summary></details>
-       <details><summary>Ondulatória</summary></details>
-       <details><summary>Óptica</summary></details>
-       <details><summary>Termodinâmica</summary></details>
-       <details><summary>Mecânica</summary></details>
-       <details><summary>Dinâmica</summary></details>
-       <details><summary>Física moderna</summary></details>
-        <details><summary>Física quântica</summary></details>
+      <details><summary>Eletricidade</summary></details>
+      <details><summary>Magnetismo</summary></details>
+      <details><summary>Ondulatória</summary></details>
+      <details><summary>Óptica</summary></details>
+      <details><summary>Termodinâmica</summary></details>
+      <details><summary>Mecânica</summary></details>
+      <details><summary>Dinâmica</summary></details>
+      <details><summary>Física moderna</summary></details>
+       <details><summary>Física quântica</summary></details>
     </details>
     <details><summary>Softwares</summary>
         VSCode
