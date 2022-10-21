@@ -21,7 +21,6 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
  # Física 
  </summary>
       <details><summary>
-       
       ##Acústica</summary></details>
       <details><summary> ##Eletricidade</summary></details>
       <details><summary>Magnetismo</summary></details>
