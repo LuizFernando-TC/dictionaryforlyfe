@@ -97,5 +97,4 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
  <details><summary>Javascript</summary></details>
  <details><summary>Java</summary></details>
   > inside a list item.
- 
- :fa-solid fa-user-group:
+
