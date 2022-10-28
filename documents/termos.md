@@ -98,6 +98,4 @@ Os termoas à serem descridos estarão separados por áreas do conhecimento
  <details><summary>Java</summary></details>
   > inside a list item.
  
- 
- 
- :font-awesome-icon:
+ :fa-solid fa-user-group:
